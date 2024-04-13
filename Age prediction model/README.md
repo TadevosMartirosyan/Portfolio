@@ -1,6 +1,6 @@
 # Данные
 
-Датасет с изображением людей и из возрастом, взятые с сайта [ChaLearn Looking at People](https://chalearnlap.cvc.uab.es/dataset/26/description/)
+Датасет с изображением людей и их возрастом, взятые с сайта [ChaLearn Looking at People](https://chalearnlap.cvc.uab.es/dataset/26/description/)
 
 # Задача
 
