@@ -10,7 +10,7 @@
 > 
 > EndDate 
 > 
-> Type 
+> Type
 > 
 > PaperlessBilling 
 > 
